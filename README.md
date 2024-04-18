@@ -16,7 +16,7 @@ Class: CSCI 3336 - Organization of Programming Languages
 Professor: Dr. Andres Figueroa
 
 
-Used in a presentation by 
+Used in a presentation by: 
 
 [Angelo Brian Navilon](https://github.com/4b-n4v)
 
