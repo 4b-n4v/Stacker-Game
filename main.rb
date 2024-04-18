@@ -25,7 +25,7 @@ end
 
 current_line = HEIGHT - 1
 current_direction = :right
-speed = 0.1
+speed = 4
 score = 0
 
 
@@ -201,7 +201,7 @@ def win1(tmp)
     # img2.y += speed
     # img2.width *= 1.0009
     # img2.height *= 1.0009
-    # img.rotate = angle
+    img.rotate = angle
     # img2.rotate = angle - 900
 
 
