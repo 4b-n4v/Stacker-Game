@@ -7,6 +7,12 @@ If you make it to the top, you win.
 If you get a perfect score of 180, there's a _*special easter egg*_.
 
 
+To run:
+```ruby
+  gem install ruby2d # Install Ruby2D
+  ruby main.rb       # Run main 
+```
+
 
 Written with [Ruby2D](https://github.com/ruby2d/ruby2d)
 Modified version of [Mario Visic](https://github.com/mariovisic)'s [Stacker game tutorial](https://www.youtube.com/watch?v=yMf-MByhG4U)
